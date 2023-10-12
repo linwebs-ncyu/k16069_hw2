@@ -1,5 +1,4 @@
 on:[pull_request]
-
 jobs:
   zap_scan:
     runs-on: ubuntu-latest
